@@ -1,8 +1,11 @@
 # PORTFOLIO
 
 ## About me
-My name is Pavlo Vovcharuk. I am a bachelor of Copmputer Sciences, I am also a master's degree student majoring in Copmputer Sciences and Project management. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. My main goal is to start my career as an intern or junior tester, and of course also to develop testing knowlage and technical skills. 
+My name is Pavlo Vovcharuk. I am a bachelor of Copmputer Sciences and I am also a master's degree student majoring in Copmputer Sciences in Ukraine and a master's degree student majoring in Project management in Poland. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. My main goal is to start my career as an intern or junior tester, and of course also to develop testing knowlage and technical skills. 
 In this portfolio I want to share my technical skills and knowledge of software testing
+
+## LinkedIn
+[Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
 
 ## Courses
 * The Fundamentals of Software Testing from QAtestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
@@ -22,7 +25,7 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Visual Code
 
 
-##Tech skills
+## Tech skills
 * Markdown
 * HTML/CSS
 * SQL
@@ -36,6 +39,12 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Finding uniqe CSS Selectors and xPaths
 * Creating diagrams and decision tables
   
+## My projects
+**Repositories**
+* [Robot Framework Project for Dare IT Portfolio Challenge](https://github.com/PavelVovcharuk/pavel_robotframework)
+* [Project for Dare IT Portfolio Challenge on Python with Selenium](https://github.com/PavelVovcharuk/challenge_portfolio_pavel)
+* [My CV project for GoIT](https://github.com/PavelVovcharuk/resume)
+
 **Test cases**
 * [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
 * [Test cases for site https://scouts-test.futbolkolektyw.pl/en/](https://drive.google.com/drive/folders/1GmXFs55oxP-5LREm5-tSJaBtxIpAtEPP)
@@ -45,7 +54,7 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * [Check lists for site http://opencart.qatestlab.net/](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
 
 **Bug reports**
-*
+* [Test cases for site https://scouts-test.futbolkolektyw.pl/en/]()
 
 **Test Plan**
 * [Test plan for site http://opencart.qatestlab.net/](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
