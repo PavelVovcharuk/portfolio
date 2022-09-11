@@ -1,1 +1,56 @@
-# portfolio
+# PORTFOLIO
+
+## About me
+My name is Pavlo Vovcharuk. I am a bachelor of Copmputer Sciences, I am also a master's degree student majoring in Copmputer Sciences and Project management. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. My main goal is to start my career as an intern or junior tester, and of course also to develop testing knowlage and technical skills. 
+In this portfolio I want to share my technical skills and knowledge of software testing
+
+## Courses
+* The Fundamentals of Software Testing from QAtestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
+* Software automation with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
+* Portfolio challenge: Test Automation from DareIT
+* 7-day HTML/CSS Marathon from GoIT
+
+## Tools 
+* Jira - bug tracker
+* TestRail - test cases management
+* Chrome DevTools - for testing and to improve bug reports
+* Git, Git Bash, GitHub
+* MySQL - relational database management system
+* Selenium IDE - tool use to support automated testing
+* Selenium WebDriver - for automated testing of web applications
+* PyCharm - development environment for Python
+* Visual Code
+
+
+##Tech skills
+* Markdown
+* HTML/CSS
+* SQL
+* Python - basic knoweleges
+* DevTools
+* Software testing
+* Creating test cases
+* Creating check lists
+* Creating tests plans
+* Reporting bugs
+* Finding uniqe CSS Selectors and xPaths
+* Creating diagrams and decision tables
+  
+**Test cases**
+* [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
+* [Test cases for site https://scouts-test.futbolkolektyw.pl/en/](https://drive.google.com/drive/folders/1GmXFs55oxP-5LREm5-tSJaBtxIpAtEPP)
+
+**Check lists**
+* [Check lists for site instagram.com](https://drive.google.com/drive/folders/1OBPbzow0SAMuIRcKS29O81trVjCdvKpN)
+* [Check lists for site http://opencart.qatestlab.net/](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
+
+**Bug reports**
+*
+
+**Test Plan**
+* [Test plan for site http://opencart.qatestlab.net/](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
+
+**HTML/CSS**
+* I have participated in 7-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch. 
+
+  [LINK to my tester CV made during Marathon](https://pavlo-vovcharuk-cv.netlify.app/)
