@@ -47,14 +47,14 @@ In this portfolio I want to share my technical skills and knowledge of software 
 
 **Test cases**
 * [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
-* [Test cases for site https://scouts-test.futbolkolektyw.pl/en/](https://drive.google.com/drive/folders/1GmXFs55oxP-5LREm5-tSJaBtxIpAtEPP)
+* [Test cases for site https://scouts-test.futbolkolektyw.pl/en/](https://docs.google.com/spreadsheets/d/1KlvBRBqcNeR9rXo-4uPtzdU0Epkkt6z3/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **Check lists**
 * [Check lists for site instagram.com](https://drive.google.com/drive/folders/1OBPbzow0SAMuIRcKS29O81trVjCdvKpN)
 * [Check lists for site http://opencart.qatestlab.net/](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
 
 **Bug reports**
-* [Bug report for site https://scouts-test.futbolkolektyw.pl/en/]()
+* [Bug report for site https://scouts-test.futbolkolektyw.pl/en/](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **Test Plan**
 * [Test plan for site http://opencart.qatestlab.net/](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
