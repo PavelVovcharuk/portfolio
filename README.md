@@ -4,12 +4,12 @@
 My name is Pavlo Vovcharuk. I am a bachelor of Copmputer Sciences and I am also a master's degree student majoring in Copmputer Sciences in Ukraine and a master's degree student majoring in Project management in Poland. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. My main goal is to start my career as an intern or junior tester, and of course also to develop testing knowlage and technical skills. 
 In this portfolio I want to share my technical skills and knowledge of software testing
 
-## LinkedIn
+## My LinkedIn Profile
 [Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
 
-## Courses
+## Courses & Certificates
 * The Fundamentals of Software Testing from QAtestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
-* Software automation with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
+* Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
 * Portfolio challenge: Test Automation from DareIT
 * 7-day HTML/CSS Marathon from GoIT
 
