@@ -54,7 +54,7 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * [Check lists for site http://opencart.qatestlab.net/](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
 
 **Bug reports**
-* [Test cases for site https://scouts-test.futbolkolektyw.pl/en/]()
+* [Bug report for site https://scouts-test.futbolkolektyw.pl/en/]()
 
 **Test Plan**
 * [Test plan for site http://opencart.qatestlab.net/](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
