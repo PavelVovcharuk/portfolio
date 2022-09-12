@@ -23,6 +23,7 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Selenium WebDriver - for automated testing of web applications
 * PyCharm - development environment for Python
 * Visual Code
+* Figma
 
 
 ## Tech skills
