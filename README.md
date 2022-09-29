@@ -10,7 +10,7 @@ In this portfolio I want to share my technical skills and knowledge of software 
 ## Courses & Certificates
 * The Fundamentals of Software Testing from QAtestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
 * Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
-* Portfolio challenge: Test Automation from DareIT
+* Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
 * 7-day HTML/CSS Marathon from GoIT
 
 ## Tools 
