@@ -17,12 +17,11 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Jira - bug tracker
 * TestRail - test cases management
 * Chrome DevTools - for testing and to improve bug reports
-* Git, Git Bash, GitHub
+* Git, GitHub
 * MySQL - relational database management system
-* Selenium IDE - tool use to support automated testing
 * Selenium WebDriver - for automated testing of web applications
 * PyCharm - development environment for Python
-* Visual Code
+* Visual Studio Code
 * Figma
 
 
