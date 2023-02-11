@@ -16,12 +16,14 @@ In this portfolio I want to share my technical skills and knowledge of software 
 ## Tools 
 * Jira - bug tracker
 * TestRail - test cases management
+* Mantis - bug tracker
+* Testlink - test cases management 
 * Chrome DevTools - for testing and to improve bug reports
 * Git, GitHub
 * Selenium WebDriver - for automated testing of web applications
 * PyCharm - development environment for Python
-* Visual Studio Code
-* Figma
+* Visual Studio Code - development environment 
+* Figma 
 * MS Office
 
 
