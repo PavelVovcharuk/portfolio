@@ -44,8 +44,8 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Finding uniqe CSS Selectors and xPaths
 * Creating diagrams and decision tables
   
-## My projects
-# Repositories
+# My projects
+## Repositories
 * [Robot Framework Project for Dare IT Portfolio Challenge](https://github.com/PavelVovcharuk/pavel_robotframework)
 * [Project for Dare IT Portfolio Challenge on Python with Selenium](https://github.com/PavelVovcharuk/challenge_portfolio_pavel)
 * [My CV project for GoIT](https://github.com/PavelVovcharuk/resume)
