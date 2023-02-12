@@ -4,6 +4,9 @@
 My name is Pavlo Vovcharuk. I am a master of Copmputer Sciences and I am also a master's degree student majoring in Project management in Poland. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. My main goal is to start my career as an intern or junior sotware tester, and of course also to develop testing knowlage and technical skills. 
 In this portfolio I want to share my technical skills and knowledge of software testing
 
+## My CV
+[Pavlo Vovcharuk - CV]()
+
 ## My LinkedIn Profile
 [Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
 
@@ -12,6 +15,7 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
 * Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
 * 7-day HTML/CSS Marathon from GoIT
+* Software testing from EPAM 
 
 ## Tools 
 * Jira - bug tracker
@@ -24,11 +28,11 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * PyCharm - development environment for Python
 * Visual Studio Code - development environment 
 * Figma 
-* MS Office
+* MS Office - MS Word, MS Exel, MS PowerPoint, MS Access
 
 
 ## Tech skills
-* Markdown
+* Markdown - basic knoweleges
 * HTML/CSS - basic knoweleges
 * Python - basic knoweleges for automated tests creation
 * DevTools
