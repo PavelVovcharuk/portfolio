@@ -39,7 +39,6 @@ In this portfolio I want to share my technical skills and knowledge of software 
 * Software testing
 * Creating test cases
 * Creating check lists
-* Creating tests plans
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
 * Creating diagrams and decision tables
