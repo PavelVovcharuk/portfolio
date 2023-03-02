@@ -37,10 +37,16 @@ In this portfolio I want to share my technical skills and knoweldges of Software
 * Python - basic knoweledges for automated tests creation
 * DevTools
 * Software testing
+* Fuctional testing
 * Creating test cases
 * Creating check lists
 * Reporting bugs
-* Finding uniqe CSS Selectors and xPaths
+* Check lists
+* Test design techniques
+* SDLC understanding
+* STLC understanding
+* ISTQB  terminology (basic)
+* Finding CSS Selectors and xPaths
 * Creating diagrams and decision tables
   
 # My projects
