@@ -15,7 +15,7 @@ In this portfolio I want to share my technical skills and knoweldges of Software
 * Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
 * Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
 * 7-day HTML/CSS Marathon from GoIT
-* Software testing from EPAM 
+* Software testing from EPAM (ongoing)
 
 ## Tools 
 * Jira - bug tracker
