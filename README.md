@@ -32,9 +32,9 @@ In this portfolio I want to share my technical skills and knoweldges of Software
 
 
 ## Tech skills
-* Markdown - basic knoweleges
-* HTML/CSS - basic knoweleges
-* Python - basic knoweleges for automated tests creation
+* Markdown - basic knoweledges
+* HTML/CSS - basic knoweledges
+* Python - basic knoweledges for automated tests creation
 * DevTools
 * Software testing
 * Creating test cases
