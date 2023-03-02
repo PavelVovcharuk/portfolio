@@ -1,11 +1,11 @@
 # PORTFOLIO
 
 ## About me
-My name is Pavlo Vovcharuk. I am a master of Copmputer Sciences and I am also a master's degree student majoring in Project management in Poland. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. My main goal is to start my career as an intern or junior sotware tester, and of course also to develop testing knowelages and technical skills. 
-In this portfolio I want to share my technical skills and knoweldges of software testing
+My name is Pavlo Vovcharuk. I am a master of Copmputer Sciences and I am also a master's degree student majoring in Project management in Poland. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. I am a responsible and ambitious person with good quick-learning and teamwork skills. My main goal and desire is to start my career and to grow as a Software QA Manual with potential grows in the Automated Testing and of course also to develop testing knowelages and technical skills. 
+In this portfolio I want to share my technical skills and knoweldges of Software Testing
 
 ## My CV
-[Pavlo Vovcharuk - CV]()
+[Pavlo Vovcharuk - CV](https://drive.google.com/file/d/1nlN9bU_55ccH0Ran0Nq_OYDTgntzubmp/view?usp=share_link)
 
 ## My LinkedIn Profile
 [Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
