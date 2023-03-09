@@ -11,11 +11,11 @@ In this portfolio I want to share my technical skills and knowledges of Software
 [Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
 
 ## Courses & Certificates
-* The Fundamentals of Software Testing from QAtestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
-* Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
-* Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
-* 7-day HTML/CSS Marathon from GoIT
 * Software testing from EPAM (ongoing)
+* Fundamentals of Software Testing blitz exam QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf)
+* Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
+* Fundamentals of Software Testing from QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
+* Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
 
 ## Tools 
 * Jira - bug tracker
@@ -57,17 +57,19 @@ In this portfolio I want to share my technical skills and knowledges of Software
 
 **Test cases**
 * [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
-* [Test cases for site https://scouts-test.futbolkolektyw.pl/en/](https://docs.google.com/spreadsheets/d/1KlvBRBqcNeR9rXo-4uPtzdU0Epkkt6z3/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
+* [Test cases for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/1KlvBRBqcNeR9rXo-4uPtzdU0Epkkt6z3/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **Check lists**
 * [Check lists for site instagram.com](https://drive.google.com/drive/folders/1OBPbzow0SAMuIRcKS29O81trVjCdvKpN)
-* [Check lists for site http://opencart.qatestlab.net/](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
+* [Check lists for site opencart.qatestlab.net](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
+* [Check lists for site prestashop.qatestlab.com.ua]()
 
 **Bug reports**
-* [Bug report for site https://scouts-test.futbolkolektyw.pl/en/](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
+* [Bug report for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
+* [Bug report for site prestashop.qatestlab.com.ua]()
 
 **Test Plan**
-* [Test plan for site http://opencart.qatestlab.net/](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
+* [Test plan for site opencart.qatestlab.net](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **HTML/CSS**
 * I have participated in 7-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch. 
