@@ -16,6 +16,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
 * Fundamentals of Software Testing from QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
 * Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
+* GoIT HTML [LINK to Certificate](https://drive.google.com/file/d/16KFqDQZ73XDs0ohQwhPqAewGh28qECMp/view?usp=share_link)
 
 ## Tools 
 * Jira - bug tracker
