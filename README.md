@@ -65,8 +65,8 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * [Check lists for site prestashop.qatestlab.com.ua](https://docs.google.com/spreadsheets/d/1GjNXWLK7LEyqsf6Yl1i3hxxryc0DYj9O/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **Bug reports**
-* [Bug report for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
-* [Bug report for site prestashop.qatestlab.com.ua]()
+* [Bug report for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
+* [Bug report for site prestashop.qatestlab.com.ua](https://docs.google.com/spreadsheets/d/1GcGCxTachVbAUw1Cc2IsEKTz5GLbyQ38/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **Test Plan**
 * [Test plan for site opencart.qatestlab.net](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
