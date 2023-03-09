@@ -62,7 +62,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 **Check lists**
 * [Check lists for site instagram.com](https://drive.google.com/drive/folders/1OBPbzow0SAMuIRcKS29O81trVjCdvKpN)
 * [Check lists for site opencart.qatestlab.net](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
-* [Check lists for site prestashop.qatestlab.com.ua]()
+* [Check lists for site prestashop.qatestlab.com.ua](https://docs.google.com/spreadsheets/d/1GjNXWLK7LEyqsf6Yl1i3hxxryc0DYj9O/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 
 **Bug reports**
 * [Bug report for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
