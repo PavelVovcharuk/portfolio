@@ -5,7 +5,7 @@ My name is Pavlo Vovcharuk. I am a master of Copmputer Sciences and I am also a 
 In this portfolio I want to share my technical skills and knowledges of Software Testing
 
 ## My CV
-[Pavlo Vovcharuk - CV](https://drive.google.com/file/d/12jyLnX3zP5ONug3iZqjifcUriVZNEAjs/view?usp=share_link)
+[Pavlo Vovcharuk - CV]()
 
 ## My LinkedIn Profile
 [Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
