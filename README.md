@@ -1,6 +1,8 @@
 # PORTFOLIO
+![cv (1)](https://github.com/PavelVovcharuk/portfolio/assets/36400009/57e99bf1-5412-44e9-b04e-808682cdbfcb)
 
 ---
+
 
 ### 👨‍💻 About me
 
