@@ -3,14 +3,19 @@
 ---
 
 ### 👨‍💻 About me
-My name is Pavlo Vovcharuk. I am a master of Copmputer Sciences and I am also a master's degree student majoring in Project management in Poland. For a long time, since my bachelor's degree, I have been interested in software testing. I have always been fascinated with researching and checking for compliance with something, and when I discovered software testing, I realized that this is the profession that suits me. I am a responsible and ambitious person with good quick-learning and teamwork skills. My main goal and desire is to start my career and to grow as a Software QA Manual with potential grows in the Automated Testing and of course also to develop testing knowelages and technical skills. 
+
+My name is Pavlo Vovcharuk. I am a Junior QA Engineer, with a good academic background in Computer Science and hand-on experience on some projects. I am responsible and ambitious person with good quick-learning, communicational and teamwork skills. I desire to start my career and find a company where I can use and develop my testing knowledges and technical skills and to grow professionally in Software Testing. <br>
+
+🎓MSc of Computer Science and MD in Management. <br>
+
 In this portfolio I want to share my technical skills and knowledges of Software Testing
 
 ### 📄 My CV
 [Pavlo Vovcharuk - CV]()
 
-### My LinkedIn Profile
-[![LinkedIn Badge](https://img.shields.io/badge/-@pavelvovcharuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavelvovcharuk/) 
+### Conctact
+[![LinkedIn Badge](https://img.shields.io/badge/-@pavelvovcharuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavelvovcharuk/) <br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pavel0337@gmail.com)
 
 ### 📚 Courses & Certificates
 * Software testing | EPA﻿M (ongoing)
@@ -35,7 +40,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * MS Office - MS Word, MS Exel, MS PowerPoint, MS Access
 
 
-### 💪 Tech skills
+### 🚀 Skills
 * Markdown (basic knowledge)
 * HTML/CSS (basic knowledge)
 * DevTools (basic knowledge)
@@ -50,6 +55,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * STLC understanding
 * ISTQB  terminology (basic knowledge)
 * Creating diagrams and decision tables
+* English - B2
   
 # 📁 My projects
 
