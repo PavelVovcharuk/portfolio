@@ -67,6 +67,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * [Project for Dare IT Portfolio Challenge on Python with Selenium](https://github.com/PavelVovcharuk/challenge_portfolio_pavel)
 * [My CV project for GoIT](https://github.com/PavelVovcharuk/resume)
 * [Project "Art Synytsia"]()
+* 
 
 ### Test cases 🗃️
 * [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
@@ -80,6 +81,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 ### Bug reports 🐞
 * [Bug report for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 * [Bug report for site prestashop.qatestlab.com.ua](https://docs.google.com/spreadsheets/d/1GcGCxTachVbAUw1Cc2IsEKTz5GLbyQ38/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
+* [Bug report in Jira (for authourized users)](https://pavlovovcharuk.atlassian.net/jira/software/projects/GOIT/boards/1)
 
 ### Test Plan 📔
 * [Test plan for site opencart.qatestlab.net](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
