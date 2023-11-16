@@ -21,11 +21,12 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * Software testing | EPA﻿M (ongoing)
 * Introduction to Structured Query Language |COURSERA (ongoing)
 * Agile with Atlassian Jira | COURSERA (ongoing)
-* Fundamentals of Software Testing blitz exam | QATestLab <span style="color : red;"> [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf) </span>
-* Portfolio challenge: Test Automation | DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
+* Fundamentals of Software Testing blitz exam | QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf)
+* QA Automated Testing | DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
 * Fundamentals of Software Testing | QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
-* Software Automation Testing with Selenium and Python | Stepik [LINK to Certificate](https://stepik.org/cert/865274)
-* GoIT English HTML [LINK to Certificate](https://drive.google.com/file/d/16KFqDQZ73XDs0ohQwhPqAewGh28qECMp/view?usp=share_link)
+* Automation Testing with Selenium and Python  | Stepik [LINK to Certificate](https://stepik.org/cert/865274)
+* GoIT English HTML [LINK to Certificate](https://drive.google.com/file/d/16KFqDQZ73XDs0ohQwhPqAewGh28qECMp/view?usp=drive_link)
+* ICPC Volonteer Certificate [LINK to Certificate](https://drive.google.com/file/d/19ENKYjxAkeuTlJKKFe4b-3-kOK6SD0rM/view?usp=drive_link)
 
 ### 🛠 Tools 
 * Jira - bug tracker (basic knowledge for receving tasks and creating bug reports)
