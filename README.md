@@ -1,10 +1,7 @@
 # PORTFOLIO
-![cv (1)](https://github.com/PavelVovcharuk/portfolio/assets/36400009/57e99bf1-5412-44e9-b04e-808682cdbfcb)
 
----
+## 👨🏻‍💻 About me
 
-
-### 👨‍💻 About me
 
 My name is Pavlo Vovcharuk. I am a Junior QA Engineer, with a good academic background in Computer Science and hand-on experience on some projects. I am responsible and ambitious person with good quick-learning, communicational and teamwork skills. I desire to start my career and find a company where I can use and develop my testing knowledges and technical skills and to grow professionally in Software Testing. <br>
 
@@ -12,12 +9,13 @@ My name is Pavlo Vovcharuk. I am a Junior QA Engineer, with a good academic back
 
 In this portfolio I want to share my technical skills and knowledges of Software Testing
 
-### 📄 My CV
-[Pavlo Vovcharuk - CV]()
+## 📄 My CV: [Pavlo Vovcharuk📥]()
 
-### Conctact
-[![LinkedIn Badge](https://img.shields.io/badge/-@pavelvovcharuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavelvovcharuk/) <br>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pavel0337@gmail.com)
+
+
+## [![LinkedIn Badge](https://img.shields.io/badge/-@pavelvovcharuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavelvovcharuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pavel0337@gmail.com)
+
+
 
 ### 📚 Courses & Certificates
 * Software testing | EPA﻿M (ongoing)
@@ -58,32 +56,34 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * ISTQB  terminology (basic knowledge)
 * Creating diagrams and decision tables
 * English - B2
-  
-# 📁 My projects
 
-### 🔗 **Repositories**
+
+  
+# 🗂️ My projects
+
+### 🔗 Repositories
 * [Robot Framework Project for Dare IT Portfolio Challenge](https://github.com/PavelVovcharuk/pavel_robotframework)
 * [Project for Dare IT Portfolio Challenge on Python with Selenium](https://github.com/PavelVovcharuk/challenge_portfolio_pavel)
 * [My CV project for GoIT](https://github.com/PavelVovcharuk/resume)
 * [Project "Art Synytsia"]()
 
-**Test cases**
+### Test cases 🗃️
 * [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
 * [Test cases for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/1KlvBRBqcNeR9rXo-4uPtzdU0Epkkt6z3/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
 
-**Check lists**
+### Check lists 📋
 * [Check lists for site instagram.com](https://drive.google.com/drive/folders/1OBPbzow0SAMuIRcKS29O81trVjCdvKpN)
 * [Check lists for site opencart.qatestlab.net](https://drive.google.com/drive/folders/1k5tfTQ4pxuc9cnzFELq7U4jLDiI2irUY)
 * [Check lists for site prestashop.qatestlab.com.ua](https://docs.google.com/spreadsheets/d/1GjNXWLK7LEyqsf6Yl1i3hxxryc0DYj9O/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 
-**Bug reports**
+### Bug reports 🐞
 * [Bug report for site scouts-test.futbolkolektyw.pl](https://docs.google.com/spreadsheets/d/18eCdzNJMJ1J8P7Z8cVJivbkdodjlKHqJ/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 * [Bug report for site prestashop.qatestlab.com.ua](https://docs.google.com/spreadsheets/d/1GcGCxTachVbAUw1Cc2IsEKTz5GLbyQ38/edit?usp=share_link&ouid=115014116687237678519&rtpof=true&sd=true)
 
-**Test Plan**
+### Test Plan 📔
 * [Test plan for site opencart.qatestlab.net](https://docs.google.com/document/d/1fgF5tEng7BZ3J-7O-V6G9AVRNUQx90gg/edit?usp=sharing&ouid=115014116687237678519&rtpof=true&sd=true)
 
-**HTML/CSS**
+### Web | HTML/CSS 🖥️
 * My own freelance project for the development of the website of the Ukrainian vocal studio "Art Synytsia"in Lodz |
   [LINK to the DEMO](https://art-synytsia-v3.netlify.app/)
 * I have participated in 7-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.|
