@@ -19,7 +19,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 
 ### 📚 Courses & Certificates
 * Software testing | EPA﻿M (ongoing)
-* Introduction to Structured Query Language |COURSERA (ongoing)
+* Introduction to Structured Query Language | COURSERA (ongoing)
 * Agile with Atlassian Jira | COURSERA (ongoing)
 * Fundamentals of Software Testing blitz exam | QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf)
 * QA Automated Testing | DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
