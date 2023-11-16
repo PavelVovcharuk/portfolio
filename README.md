@@ -6,7 +6,7 @@
 
 My name is Pavlo Vovcharuk. I am a Junior QA Engineer, with a good academic background in Computer Science and hand-on experience on some projects. I am responsible and ambitious person with good quick-learning, communicational and teamwork skills. I desire to start my career and find a company where I can use and develop my testing knowledges and technical skills and to grow professionally in Software Testing. <br>
 
-🎓MSc of Computer Science and MD in Management. <br>
+🎓MSc in Computer Science and MD in Management. <br>
 
 In this portfolio I want to share my technical skills and knowledges of Software Testing
 
@@ -21,7 +21,7 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * Software testing | EPA﻿M (ongoing)
 * Introduction to Structured Query Language |COURSERA (ongoing)
 * Agile with Atlassian Jira | COURSERA (ongoing)
-* Fundamentals of Software Testing blitz exam | QATestLab <span style="color:#fff"> [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf)</span>
+* Fundamentals of Software Testing blitz exam | QATestLab <span style="color : red;"> [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf) </span>
 * Portfolio challenge: Test Automation | DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
 * Fundamentals of Software Testing | QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
 * Software Automation Testing with Selenium and Python | Stepik [LINK to Certificate](https://stepik.org/cert/865274)
@@ -86,5 +86,3 @@ In this portfolio I want to share my technical skills and knowledges of Software
   [LINK to the DEMO](https://art-synytsia-v3.netlify.app/)
 * I have participated in 7-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.|
   [LINK to my tester CV made during Marathon](https://pavlo-vovcharuk-cv.netlify.app/)
-
-
