@@ -9,7 +9,7 @@ My name is Pavlo Vovcharuk. I am a Junior QA Engineer, with a good academic back
 
 In this portfolio I want to share my technical skills and knowledges of Software Testing
 
-## 📄 My CV: [Pavlo Vovcharuk📥]()
+## 📄 My CV: [Pavlo Vovcharuk📥](https://drive.google.com/file/d/1YOaTaduYOuigZVWTqKwSESGnr1466cO7/view?usp=drive_link)
 
 
 
@@ -29,12 +29,12 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * ICPC Volonteer Certificate [LINK to Certificate](https://drive.google.com/file/d/19ENKYjxAkeuTlJKKFe4b-3-kOK6SD0rM/view?usp=drive_link)
 
 ### 🛠 Tools 
-* Jira - bug tracker (basic knowledge for receving tasks and creating bug reports)
+* Jira - bug tracker (basic knowledge for receving tasks and creating issues (bug reports))
 * TestRail - test cases management (basic knowledge for creating test cases)
 * Mantis - bug tracker
 * Testlink - test cases management 
 * Chrome DevTools - for testing and to improve bug reports
-* Git, GitHub
+* GitHub
 * PyCharm - development environment for Python
 * Visual Studio Code - development environment 
 * Figma - grafic tool
