@@ -10,15 +10,17 @@ In this portfolio I want to share my technical skills and knowledges of Software
 [Pavlo Vovcharuk - CV]()
 
 ### My LinkedIn Profile
-[Pavlo Vovcharuk](https://www.linkedin.com/in/pavelvovcharuk/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@pavelvovcharuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavelvovcharuk/) 
 
 ### 📚 Courses & Certificates
-* Software testing from EPAM (ongoing)
-* Fundamentals of Software Testing blitz exam QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf)
-* Portfolio challenge: Test Automation from DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
-* Fundamentals of Software Testing from QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
-* Software Automation Testing with Selenium and Python from Stepik [LINK to Certificate](https://stepik.org/cert/865274)
-* GoIT HTML [LINK to Certificate](https://drive.google.com/file/d/16KFqDQZ73XDs0ohQwhPqAewGh28qECMp/view?usp=share_link)
+* Software testing | EPA﻿M (ongoing)
+* Introduction to Structured Query Language |COURSERA (ongoing)
+* Agile with Atlassian Jira | COURSERA (ongoing)
+* Fundamentals of Software Testing blitz exam | QATestLab <span style="color:#fff"> [LINK to Certificate](https://clients.qatestlab.com/api/trainings/certificate_265191_33199.pdf)</span>
+* Portfolio challenge: Test Automation | DareIT [LINK to Certificate](https://drive.google.com/file/d/1dWrfq9NqFtfJ92YQTPzN041jfv93lblW/edit)
+* Fundamentals of Software Testing | QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_191165_16696.pdf)
+* Software Automation Testing with Selenium and Python | Stepik [LINK to Certificate](https://stepik.org/cert/865274)
+* GoIT English HTML [LINK to Certificate](https://drive.google.com/file/d/16KFqDQZ73XDs0ohQwhPqAewGh28qECMp/view?usp=share_link)
 
 ### 🛠 Tools 
 * Jira - bug tracker (basic knowledge for receving tasks and creating bug reports)
@@ -78,3 +80,5 @@ In this portfolio I want to share my technical skills and knowledges of Software
   [LINK to the DEMO](https://art-synytsia-v3.netlify.app/)
 * I have participated in 7-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.|
   [LINK to my tester CV made during Marathon](https://pavlo-vovcharuk-cv.netlify.app/)
+
+
