@@ -88,6 +88,6 @@ In this portfolio I want to share my technical skills and knowledges of Software
 
 ### Web | HTML/CSS 🖥️
 * My own freelance project for the development of the website of the Ukrainian vocal studio "Art Synytsia"in Lodz |
-  [LINK to the DEMO](https://art-synytsia-v3.netlify.app/)
+  [LINK to the DEMO](https://art-synytsia-demo.netlify.app/)
 * I have participated in 7-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.|
   [LINK to my tester CV made during Marathon](https://pavlo-vovcharuk-cv.netlify.app/)
