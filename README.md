@@ -67,7 +67,6 @@ In this portfolio I want to share my technical skills and knowledges of Software
 * [Project for Dare IT Portfolio Challenge on Python with Selenium](https://github.com/PavelVovcharuk/challenge_portfolio_pavel)
 * [My CV project for GoIT](https://github.com/PavelVovcharuk/resume)
 * [Project "Art Synytsia"](https://github.com/PavelVovcharuk/art-synytsia)
-* 
 
 ### Test cases 🗃️
 * [Test cases for site instagram.com](https://drive.google.com/drive/folders/16vec9UuI6wreZRWi2kDFVKaPSrwmSlUr)
